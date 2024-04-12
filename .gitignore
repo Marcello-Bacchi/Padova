@@ -1,0 +1,6 @@
+*.pyc
+ctrl_lib/__pycache__/__init__.cpython-38.pyc
+programs/quTAG/qutag-GetHistogram.py
+programs/quTAG.zip
+fbin.wsp
+.DS_Store
